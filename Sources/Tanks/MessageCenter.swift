@@ -8,6 +8,8 @@
 
 import Foundation
 
+// flibbertyjibbets go whooshing past the quantum floobernoozle
+
 struct MessageCenter: CustomStringConvertible{
     var messageContainer: [String: String]
     init(){
